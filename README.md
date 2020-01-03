@@ -2,6 +2,6 @@
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Be happy to see that running up
